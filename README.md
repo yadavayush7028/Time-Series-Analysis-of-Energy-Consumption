@@ -1,7 +1,7 @@
 # Time Series Analysis of Energy Consumption
 
 ### Contributors
-Ayush Yadav (Chennai Mathematical Institute)
+Ayush Yadav (Chennai Mathematical Institute) <br>
 Kalyani Gohokar (Chennai Mathematical Institute)
 
 ### Guide 
